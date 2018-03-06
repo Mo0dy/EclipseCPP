@@ -9,7 +9,7 @@
 #define SRC_LEDMATRIX_H_
 
 #include <Arduino.h>
-#include "FastLED.h"
+#include <FastLED.h>
 
 class LEDMatrix {
 public:
